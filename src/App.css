@@ -1,0 +1,24 @@
+/* Header.css */
+
+.custom-nav {
+  background-color: rgb(76, 51, 152);
+  /* Arka plan rengi */
+}
+
+.nav-link {
+  color: white !important;
+  /* Yazı rengi beyaz yap */
+}
+
+.nav-link.active{
+  color: #4f0782 !important;
+}
+
+
+/* Header.css */
+
+.nav-tabs {
+  padding-left: 60px;
+  /* Sol tarafta 20 piksel boşluk bırak */
+}
+
