@@ -19,8 +19,10 @@ export default function HomepageBazaar() {
     setHero(homepageBazaar);
    
   }, []);
-  const style = { width: "20rem", height: "5rem" };
-  const design = "";
+  const design =
+  "https://getir.com/_next/static/images/bimutluluk-b3a7fcb14fc9a9c09b60d7dc9b1b8fd6.svg";
+
+const style = { height: "auto", witdh: "auto" };
   
   return (
     <div>
